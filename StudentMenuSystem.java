@@ -13,7 +13,7 @@ public class StudentMenuSystem {
             System.out.println("2. View Student Details");
             System.out.println("3. Calculate Grade");
             System.out.println("4. Exit");
-            System.out.print("Enter your choice: ");
+            System.out.print("Enter the choice: ");
 
             choice = sc.nextInt();
 
