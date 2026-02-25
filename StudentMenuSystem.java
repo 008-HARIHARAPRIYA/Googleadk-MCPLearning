@@ -10,7 +10,7 @@ public class StudentMenuSystem {
         do {
             System.out.println("\n===== STUDENT GRADING MENU SYSTEM=====");
             System.out.println("1. Add");
-            System.out.println("2. View Students");
+            System.out.println("2. View ");
             System.out.println("3. Calculate Grade");
             System.out.println("4. Exit");
             System.out.print("Enter your choice: ");
