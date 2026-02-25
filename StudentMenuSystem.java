@@ -8,7 +8,7 @@ public class StudentMenuSystem {
         int choice;
 
         do {
-            System.out.println("\n===== STUDENT MENU SYSTEM=====");
+            System.out.println("\n===== STUDENT GRADING MENU SYSTEM=====");
             System.out.println("1. Add");
             System.out.println("2. View Students");
             System.out.println("3. Calculate Grade");
